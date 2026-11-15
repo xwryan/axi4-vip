@@ -1,0 +1,17 @@
+# test_name              seed timeout_seconds
+axi_smoke_test           1001 120
+axi_rw_test              1002 180
+axi_perf_test            1003 180
+axi_bp_test              1004 120
+axi_mass_rw_test         1005 300
+axi_perf_stats_test      1006 120
+axi_bw_limit_test        1007 120
+axi_config_validation_test 1101 120
+axi_topology_both_active_test 1201 120
+axi_topology_master_active_slave_passive_test 1202 120
+axi_topology_master_passive_slave_active_test 1203 120
+axi_topology_master_only_test 1204 120
+axi_topology_checker_only_test 1205 120
+axi_outstanding_limit_test 1301 180
+axi_outstanding_reset_test 1302 180
+axi_high_traffic_test 1402 1800

@@ -1,0 +1,2 @@
+Fatal: "test/checker_rule_tb.sv", 88: Checker testbench terminated unexpectedly
+AXI_CHECKER_TEST_COMPLETE

@@ -1,0 +1,17 @@
+.worktrees/
+/simv
+/simv.daidir/
+/checker_simv
+/checker_simv.daidir/
+/csrc/
+/regression_logs/
+/checker_logs/
+*.vcd
+*.fsdb
+*.log
+!scripts/tests/fixtures/*.log
+*.wlf
+/work/
+/transcript
+/xcelium.d/
+/INCA_libs/

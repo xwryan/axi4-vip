@@ -1,0 +1,4 @@
+"checker/axi_protocol_checker.sv", 313: tb.dut.AST_WLAST_ON_LAST_BEAT: started at 10ns failed at 10ns
+Error: "checker/axi_protocol_checker.sv", 313: tb.dut.AST_WLAST_ON_LAST_BEAT: at time 10 ns
+[AXI CHK] WLAST not asserted on last beat
+AXI_CHECKER_TEST_COMPLETE

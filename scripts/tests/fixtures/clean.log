@@ -1,0 +1,6 @@
+Informational text mentions Error: handling but is not a VCS diagnostic.
+--- UVM Report Summary ---
+UVM_INFO : 10
+UVM_WARNING : 0
+UVM_ERROR : 0
+UVM_FATAL : 0

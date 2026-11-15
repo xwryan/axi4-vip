@@ -1,0 +1,10 @@
+"checker/axi_protocol_checker.sv", 313: tb.dut.AST_WLAST_ON_LAST_BEAT: started at 10ns failed at 10ns
+"checker/axi_protocol_checker.sv", 313: tb.dut.AST_WLAST_ON_LAST_BEAT: started at 20ns failed at 20ns
+Error: "checker/axi_protocol_checker.sv", 313: tb.dut.AST_WLAST_ON_LAST_BEAT: at time 10 ns
+Error: "checker/axi_protocol_checker.sv", 400: tb.dut.AST_RLAST_ON_LAST_BEAT: at time 20 ns
+[AXI CHK] Multiple checker rules failed
+--- UVM Report Summary ---
+UVM_INFO : 10
+UVM_WARNING : 0
+UVM_ERROR : 0
+UVM_FATAL : 0

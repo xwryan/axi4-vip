@@ -1,0 +1,10 @@
+"checker/axi_protocol_checker.sv", 313: tb.dut.AST_WLAST_ON_LAST_BEAT: started at 10ns failed at 10ns
+Error: "checker/axi_protocol_checker.sv", 313: tb.dut.AST_WLAST_ON_LAST_BEAT: at time 10 ns
+[AXI CHK] WLAST not asserted on last beat
+Error-[RUNTIME_FAILURE] Unexpected non-checker runtime diagnostic
+"test/runtime_error_test.sv", 51
+--- UVM Report Summary ---
+UVM_INFO : 10
+UVM_WARNING : 0
+UVM_ERROR : 0
+UVM_FATAL : 0
